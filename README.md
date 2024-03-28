@@ -7,7 +7,7 @@ This travel website is a personal project built using Next.js. It is a landing p
 - [Tech Stack](#tech-stack)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Access the Deployed version on Vercel](#deployed-version)
+- [Access the Deployed version on Vercel](#access-the-deployed-version-on-vercel)
 - [Acknowledgements](#acknowledgements)
 
 ## Tech Stack:
@@ -68,4 +68,4 @@ The app is deployed on Vercel and can be accessed here: [Travel Website](https:/
 
 ## Acknowledgements
 
-I have developed this website by following the JavaScript Mastery tutorial on [Youtube](https://www.youtube.com/watch?v=cuzw4vL1z5E).
+I have developed this website by following the JavaScript Mastery tutorial on [YouTube](https://www.youtube.com/watch?v=cuzw4vL1z5E).
