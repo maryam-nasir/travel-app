@@ -1,6 +1,6 @@
 # Travel Website - Portfolio Project
 
-This travel website is a personal project built using Next.js. It is a landing page which shows the different sections that can make a travel website truly outstanding. Access [here]().
+This travel website is a personal project built using Next.js. It is a landing page which shows the different sections that can make a travel website truly outstanding. Access [here](https://travel-app-six-amber.vercel.app/).
 
 ## Tech Stack:
 
@@ -18,7 +18,7 @@ This travel website is a personal project built using Next.js. It is a landing p
 
 - **Feature-Rich Section**: A complex and feature-rich section offering advanced functionalities or in-depth information.
 
-- **Call to Action for Mobile Apps**: A call-to-action section encouraging users to explore the mobile app version, complete with download links.
+- **Call to Action for Mobile Apps**: A call-to-action section encouraging users to explore the mobile app version.
 
 - **Footer**: Comprehensive footer section containing site and social media links for easy navigation and connectivity.
 
@@ -56,4 +56,4 @@ Open [http://localhost:3000](http://localhost:3000) in the browser to view the p
 
 ## Access the Deployed version on Vercel
 
-The app is deployed on Vercel and can be accessed here: [Travel Website]().
+The app is deployed on Vercel and can be accessed here: [Travel Website](https://travel-app-six-amber.vercel.app/).
