@@ -2,6 +2,14 @@
 
 This travel website is a personal project built using Next.js. It is a landing page which shows the different sections that can make a travel website truly outstanding. Access [here](https://travel-app-six-amber.vercel.app/).
 
+## Table of contents
+
+- [Tech Stack](#tech-stack)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Access the Deployed version on Vercel](#deployed-version)
+- [Acknowledgements](#acknowledgements)
+
 ## Tech Stack:
 
 - Next.js
@@ -57,3 +65,7 @@ Open [http://localhost:3000](http://localhost:3000) in the browser to view the p
 ## Access the Deployed version on Vercel
 
 The app is deployed on Vercel and can be accessed here: [Travel Website](https://travel-app-six-amber.vercel.app/).
+
+## Acknowledgements
+
+I have developed this website by following the JavaScript Mastery tutorial on [Youtube](https://www.youtube.com/watch?v=cuzw4vL1z5E).
